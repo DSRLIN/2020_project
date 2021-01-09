@@ -1,0 +1,48 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "qXwtaHAIaUHNnD_MI81RjjHWxu4",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "NK9aXA8537LP3WCKwNkABLOTD_M",
+            "id": "UCdMGYXL38w6htx6Yf9YJa-w",
+            "snippet": {
+                "title": "プロジェクトセカイ カラフルステージ! feat. 初音ミク",
+                "description": "セガ×Craft Egg/Colorful Paletteが贈る、新作スマートフォン向けゲーム『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』\n\n公式サイト：https://pjsekai.sega.jp\n公式Twitter：@pj_sekai（https://twitter.com/pj_sekai ）\n\n\n(C) SEGA\n(C) Craft Egg Inc. Developed by Colorful Palette\n(C) Crypton Future Media, INC. www.piapro.net\n商品名および社名は各社の登録商標です。",
+                "publishedAt": "2020-07-20T17:20:56.016439Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwnh2VwgbsD5E_a17Wp8B1QRNgaH7yJ55exzBh3iQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwnh2VwgbsD5E_a17Wp8B1QRNgaH7yJ55exzBh3iQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwnh2VwgbsD5E_a17Wp8B1QRNgaH7yJ55exzBh3iQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "プロジェクトセカイ カラフルステージ! feat. 初音ミク",
+                    "description": "セガ×Craft Egg/Colorful Paletteが贈る、新作スマートフォン向けゲーム『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』\n\n公式サイト：https://pjsekai.sega.jp\n公式Twitter：@pj_sekai（https://twitter.com/pj_sekai ）\n\n\n(C) SEGA\n(C) Craft Egg Inc. Developed by Colorful Palette\n(C) Crypton Future Media, INC. www.piapro.net\n商品名および社名は各社の登録商標です。"
+                }
+            },
+            "statistics": {
+                "viewCount": "25276578",
+                "subscriberCount": "249000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "122"
+            }
+        }
+    ]
+}
+

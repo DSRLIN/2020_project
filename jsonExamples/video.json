@@ -1,0 +1,78 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "HfIU7PmIvtg6UmRQAhIrWb9-VqI",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "pN8grxmJe_sI0U4WASPBghqnguA",
+      "id": "AL6hWKN0WQo",
+      "snippet": {
+        "publishedAt": "2020-11-16T10:06:28Z",
+        "channelId": "UCdMGYXL38w6htx6Yf9YJa-w",
+        "title": "ステラ / Leo/need × 初音ミク",
+        "description": "好評配信中のスマートフォン向けゲーム\n「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」\n\n『ステラ』セカイver.の2DMVを公開！\n\n『ステラ』\nLeo/need × 初音ミク\n作詞：じん\n作曲：じん\n\nアニメーション：沙雪\n動画：NO残\n\n公式サイト：https://pjsekai.sega.jp\n公式Twitter：@pj_sekai　( https://twitter.com/pj_sekai  )\n\n(C) SEGA\n(C) Craft Egg Inc. Developed by Colorful Palette\n(C) Crypton Future Media, INC. www.piapro.net\n商品名および社名は各社の登録商標です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AL6hWKN0WQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AL6hWKN0WQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AL6hWKN0WQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AL6hWKN0WQo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "プロジェクトセカイ カラフルステージ! feat. 初音ミク",
+        "tags": [
+          "初音ミク",
+          "プロジェクトセカイ",
+          "プロセカ",
+          "ボカロ",
+          "VOCALOID",
+          "ボーカロイド",
+          "鏡音リン",
+          "鏡音レン",
+          "リンレン",
+          "巡音ルカ",
+          "MEIKO",
+          "KAITO",
+          "音ゲー",
+          "リズムゲーム",
+          "ソシャゲ",
+          "スマホ向け",
+          "プレイ動画",
+          "MV"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ステラ / Leo/need × 初音ミク",
+          "description": "好評配信中のスマートフォン向けゲーム\n「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」\n\n『ステラ』セカイver.の2DMVを公開！\n\n『ステラ』\nLeo/need × 初音ミク\n作詞：じん\n作曲：じん\n\nアニメーション：沙雪\n動画：NO残\n\n公式サイト：https://pjsekai.sega.jp\n公式Twitter：@pj_sekai　( https://twitter.com/pj_sekai  )\n\n(C) SEGA\n(C) Craft Egg Inc. Developed by Colorful Palette\n(C) Crypton Future Media, INC. www.piapro.net\n商品名および社名は各社の登録商標です。"
+        }
+      },
+      "statistics": {
+        "viewCount": "1089098",
+        "likeCount": "45260",
+        "dislikeCount": "149",
+        "favoriteCount": "0",
+        "commentCount": "2398"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
+
