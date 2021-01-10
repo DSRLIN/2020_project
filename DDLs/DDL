@@ -1,0 +1,42 @@
+CREATE DATABASE `YDA_RES` /*!40100 DEFAULT CHARACTER SET utf8mb4 */
+CREATE TABLE `channel_table` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `channel_id` varchar(40) NOT NULL,
+  `title` text NOT NULL,
+  `description` text,
+  `published_at` datetime DEFAULT NULL,
+  `view_count` int(11) DEFAULT NULL,
+  `subscriber_count` int(11) DEFAULT NULL,
+  `video_count` int(11) DEFAULT NULL,
+  `time_in` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8mb4
+
+CREATE TABLE `channel_table` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `channel_id` varchar(40) NOT NULL,
+  `title` text NOT NULL,
+  `description` text,
+  `published_at` datetime DEFAULT NULL,
+  `view_count` int(11) DEFAULT NULL,
+  `subscriber_count` int(11) DEFAULT NULL,
+  `video_count` int(11) DEFAULT NULL,
+  `time_in` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=16 DEFAULT CHARSET=utf8mb4
+
+CREATE TABLE `comment_table` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `comment_id` varchar(40) NOT NULL,
+  `video_id` varchar(40) NOT NULL,
+  `text_original` text NOT NULL,
+  `author_name` text NOT NULL,
+  `author_url` text NOT NULL,
+  `author_id` varchar(40) NOT NULL,
+  `published_at` datetime DEFAULT NULL,
+  `updated_at` datetime DEFAULT NULL,
+  `time_in` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=86 DEFAULT CHARSET=utf8mb4
+
+
